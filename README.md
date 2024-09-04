@@ -1,2 +1,2 @@
-# Codingprogress
-cpp journey
+# Coding Progress
+Cpp journey!
